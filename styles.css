@@ -57,6 +57,7 @@ header{
     color: #d44b4b;
     padding: 5px;
     height: max-content;
+    width: 100%;
     background-color: rgb(255, 255, 255);
 }
 .he{
@@ -101,12 +102,11 @@ header img{
 .gallery {
     display: flex;
     justify-content: center;
-    gap: 40px;
     margin: 40px auto;
     background-color: #ffffff5d;
     border-radius: 20px;
     flex-wrap: wrap;
-    width: max-content;
+    width: 300px;
     height: max-content;
     color: black;
 }
