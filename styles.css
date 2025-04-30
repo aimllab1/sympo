@@ -25,6 +25,8 @@ body {
 }
 .logo{
     border-radius: 100px;
+    height:40px;
+    width: 40px;
 }
   
 #background-video {
@@ -79,6 +81,8 @@ header h2{
     text-align: left;
     font-size: 14px;
     display: flex;
+    height: 40px;
+    width: 40px;
     justify-content: center;
     gap: 20px;
 }
