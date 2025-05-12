@@ -1,1 +1,1 @@
-# sympo
+# sympoo
